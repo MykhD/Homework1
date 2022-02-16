@@ -16,7 +16,7 @@ public class SeasonExample {
 
         Season season;
         switch (month.toLowerCase(ROOT)) {
-//            switch (month) {
+
             case "december":
             case "january":
             case "february":
@@ -44,9 +44,7 @@ public class SeasonExample {
             default:
                 System.out.println("No this month");
                 season = null;
-                //  }
-                // System.out.println(season.toString());
-                //}
+
         }
 
     }
