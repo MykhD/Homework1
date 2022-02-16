@@ -16,7 +16,6 @@ public class SeasonExample {
 
         Season season;
         switch (month.toLowerCase(ROOT)) {
-
             case "december":
             case "january":
             case "february":
