@@ -46,7 +46,6 @@ public class SeasonExample {
                 season = null;
 
         }
-
     }
 
     public enum Season {
